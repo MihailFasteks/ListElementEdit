@@ -1,0 +1,4 @@
+﻿cl : командная строка warning D9035: использование параметра "Gm" нежелательно, он будет удален в следующих выпусках
+  UsingListboxDlg.cpp
+C:\Users\MishaPC\Desktop\Using List Box (IDE)\Using List Box (IDE)\UsingListboxDlg.cpp(38,20): warning C4018: <: несоответствие типов со знаком и без знака
+  Using List Box (IDE).vcxproj -> C:\Users\MishaPC\Desktop\Using List Box (IDE)\Debug\Using List Box (IDE).exe
